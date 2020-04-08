@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int searchInsert(ArrayList<Integer> a, int b) {
        int i=0; 
