@@ -2,27 +2,6 @@ import java.util.*;
 
 public class Solution {
     public int searchMatrix(ArrayList<ArrayList<Integer>> a, int b) {
-        // int i,j,n,m,n1;
-        // // ArrayList<Integer> A=new ArrayList<Integer>();
-        // n=a.size();
-        // m=a.get(0).size();
-        // for(i=0;i<n;i++)
-        // {
-        //     for(j=0;j<m;j++)
-        //     {
-        //         if(b==(a.get(i).get(j)))
-        //         {
-        //             return 1;
-        //         }
-        //     }
-        // }
-        // // n1=A.size();
-        // // for(i=0;i<n1;i++)
-        // // {
-        // //     if(A.get(i)==b)
-        // //     return 1;
-        // // }
-        // return 0;
          if (a.size() == 0 || a.get(0).size() == 0) {
             return 0;
         }
