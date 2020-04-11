@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     // DO NOT MODIFY THE LIST
     public ArrayList<Integer> searchRange(final List<Integer> A, int B) {
