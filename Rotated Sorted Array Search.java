@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     // DO NOT MODIFY THE LIST
     public int search(final List<Integer> a, int b) {
