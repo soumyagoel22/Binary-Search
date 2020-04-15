@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     // public int books(ArrayList<Integer> A, int B) {
    static boolean isPossible(ArrayList<Integer> A, int n, int m, int curr_min)
