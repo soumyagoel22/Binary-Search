@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     // public int paint(int A, int B, ArrayList<Integer> C) {
     //     int i,j,n,max,n1,n2;
