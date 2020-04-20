@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
 
     private int countSmaller(final List<Integer> A, int B) {
